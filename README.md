@@ -38,6 +38,11 @@ The script returns one of the following results:
 - Optimize memory scanning performance  
 - Add optional real-time scanning  
 
+
+## Detected Clients
+- Doomsday
+- Lagoon
+
 ## Acknowledgements
 
 This project is inspired by Doomsday Fucker and follows a similar concept of detecting software through memory inspection techniques.
