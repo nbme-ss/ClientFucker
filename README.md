@@ -1,6 +1,6 @@
 # ClientFucker (Inspired by MeowDoomsdayFucker and _legendryy_)
 
-ClientFucker is a lightweight detection script designed to identify the presence of specific clients within a running process. It currently detects Doomsday and Lagoon, with plans to expand to more clients over time.
+ClientFucker is a lightweight detection program designed to identify the presence of specific clients within a running process it mainly detects shitty skided clients
 
 ## Overview
 
@@ -42,6 +42,9 @@ The script returns one of the following results:
 ## Detected Clients
 - Doomsday
 - Lagoon
+- Grim
+- Old Prestige Mod
+- Nova
 
 ## Acknowledgements
 
