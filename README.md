@@ -45,6 +45,8 @@ The script returns one of the following results:
 - Grim
 - Old Prestige Mod
 - Nova
+- System - Flag the same as nova since its a nova skid that it detects mainly
+- Zenith
 
 ## Acknowledgements
 
