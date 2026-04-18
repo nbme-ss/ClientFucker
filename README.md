@@ -43,7 +43,7 @@ The script returns one of the following results:
 - Doomsday
 - Lagoon
 - Grim
-- Old Prestige Mod
+- Old Prestige Mod & Prestige Injector
 - Nova
 - System - Flag the same as nova since its a nova skid that it detects mainly
 - Zenith
