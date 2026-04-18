@@ -36,8 +36,6 @@ The script returns one of the following results:
 - Improve signature accuracy and reduce false positives  
 - Expand signature database  
 - Optimize memory scanning performance  
-- Add optional real-time scanning  
-
 
 ## Detected Clients
 - Doomsday
